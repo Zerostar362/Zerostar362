@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zerostar362
-- 👀 I’m interested in cars and programming (weird combo).
+- 👀 I’m interested in cars, airplanes and programming.
 - 🌱 I’m currently learning C#
 
 <!---
